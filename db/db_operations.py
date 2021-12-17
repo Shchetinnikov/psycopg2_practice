@@ -1,4 +1,4 @@
-from db_auth import conn, psycopg2
+from db.db_auth import conn, psycopg2
 from random import randint
 from _datetime import datetime
 
