@@ -1,21 +1,21 @@
---drop table if exists business_trips;
---drop table if exists applications;
---
---drop table if exists account_data;
---drop table if exists phone_numbers;
---
---drop table if exists employee_department;
---drop table if exists departments;
---
---drop table if exists employees;
---drop table if exists passports;
---
---drop table if exists branches;
---drop table if exists branches_addresses;
---
---drop table if exists locations;
---drop table if exists regions;
---drop table if exists countries;
+drop table if exists business_trips;
+drop table if exists applications;
+
+drop table if exists account_data;
+drop table if exists phone_numbers;
+
+drop table if exists employee_department;
+drop table if exists departments;
+
+drop table if exists employees;
+drop table if exists passports;
+
+drop table if exists branches;
+drop table if exists branches_addresses;
+
+drop table if exists locations;
+drop table if exists regions;
+drop table if exists countries;
 
 
 --------------------------------------------------------------
