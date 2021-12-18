@@ -293,7 +293,7 @@ def insert_applications(applications):
         status           = application['status'][i]
         application_date = application['application_date'][i].split(' ')[0]
         application_time = application['application_time'][i]
-        solution_date    = application['solution_date'][i].split(' ')[0]
+        solution_date    = application['solution_date'][i]
         solution_time    = application['solution_time'][i]
         date_start       = application['date_start'][i].split(' ')[0]
         date_finish      = application['date_finish'][i].split(' ')[0]
