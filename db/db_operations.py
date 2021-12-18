@@ -13,8 +13,8 @@ def insert_branches(branches):
         branch_name = branch['branch_name'][i]
         branch_num  = branch['branch_num'][i]
         country     = branch['country'][i]
-        region      = branch['region'][i]
-        location    = branch['location'][i]
+        region      = ''.join(branch['region'][i].split("'"))
+        location    = ''.join(branch['location'][i].split("'"))
         street      = branch['street'][i]
         building    = branch['building'][i]
         housing     = branch['housing'][i]
@@ -134,14 +134,15 @@ def insert_employees(employees):
 
         responsibilities = employee['responsibilities'][i]
         state      = employee['state'][i]
+        branch_id  = employee['branch_id'][i]
 
         passport_series = employee['passport_series'][i]
         passport_num = employee['passport_num'][i]
         issued_by  = employee['issued_by'][i]
         issue_date = employee['issue_date'][i]
         country    = employee['country'][i]
-        region     = employee['region'][i]
-        location   = employee['location'][i]
+        region     = ''.join(employee['region'][i].split("'"))
+        location   = ''.join(employee['location'][i].split("'"))
 
         phone_number1 = employee['phone_number1'][i]
         phone_number2 = employee['phone_number2'][i]
@@ -204,13 +205,6 @@ def insert_employees(employees):
                 cur.execute(f"SELECT passport_id FROM passports "
                             f"WHERE passport_series={passport_series} AND passport_num={passport_num}")
                 passport_id = cur.fetchone()[0]
-
-        # Определение для сотрудника его филиала (произвольно)
-        with conn:
-            with conn.cursor() as cur:
-                cur.execute(f"SELECT branch_id FROM branches")
-                branches_ids = cur.fetchall()
-                branch_id = branches_ids[randint(0, len(cur.fetchall()))][0]
 
         # Добавление данных о сотруднике
         with conn:
@@ -308,15 +302,15 @@ def insert_applications(applications):
         # Определение согласовавшего лица (произвольно)
         solver_id = 0
         if status != 'in process':
-            solver_id = randint(1, 350)
+            solver_id = randint(1, 300)
             while applicant_id == solver_id:
-                solver_id = randint(1, 350)
+                solver_id = randint(1, 300)
 
         # Конкатенация даты и времени подачи заявления
         # Аналогично для даты рассмотрения заявления
         application_date = application_date + " " + application_time
         try:
-            solution_date = (solution_date + " " + solution_time).split(' ')[0]
+            solution_date = (solution_date + " " + solution_time)
         except:
             solution_date = None
 

@@ -1,51 +1,151 @@
 branch_name,branch_num,country,region,location,street,building,housing
-Jayo,7,United States,Missouri,Saint Louis,Delladonna,46,4
-Tavu,16,United States,Kansas,Topeka,Ronald Regan,159,5
-Eare,14,United States,Kentucky,Louisville,Westport,146,5
-Browsezoom,34,United States,California,San Diego,Sauthoff,84,8
-Vipe,20,United States,South Carolina,Greenville,Bluejay,82,8
-Jabbertype,8,United States,Michigan,Detroit,Eagle Crest,33,13
-Buzzdog,21,United States,Florida,Pensacola,Spohn,142,8
-Skiptube,43,United States,Texas,Houston,Oneill,141,20
-Skyble,19,United States,Oklahoma,Edmond,Doe Crossing,156,7
-Jetwire,41,United States,Tennessee,Kingsport,Crest Line,80,5
-Kwideo,20,United States,Arizona,Apache Junction,Meadow Valley,176,14
-Blogtags,22,United States,Florida,Lakeland,Lawn,98,12
-Skippad,48,United States,Nebraska,Omaha,Mockingbird,3,5
-Tazzy,23,United States,Oklahoma,Oklahoma City,Arapahoe,172,3
-Photofeed,6,United States,Kansas,Shawnee Mission,Service,192,5
-Yacero,10,United States,Nebraska,Omaha,Bonner,149,7
-Bubblemix,34,United States,Texas,Round Rock,Kropf,200,12
-Shuffledrive,8,United States,Arizona,Tucson,Melby,120,9
-Wordpedia,10,United States,Massachusetts,Boston,Old Shore,58,9
-Feedbug,14,United States,Nebraska,Omaha,Dorton,78,5
-Demivee,20,United States,Hawaii,Honolulu,Dryden,171,10
-Ainyx,14,United States,Florida,Daytona Beach,Fair Oaks,145,5
-Oyondu,35,United States,Missouri,Springfield,Elmside,144,4
-Wikizz,36,United States,Florida,Sarasota,Hoffman,56,1
-Yabox,50,United States,North Carolina,Charlotte,Scofield,33,7
-Zoonder,3,United States,Pennsylvania,Philadelphia,Blue Bill Park,131,8
-Minyx,39,United States,Idaho,Boise,Swallow,86,16
-Dabtype,41,United States,Massachusetts,Springfield,Stoughton,28,1
-Avaveo,27,United States,Kentucky,Lexington,2nd,180,16
-Roombo,46,United States,District of Columbia,Washington,Muir,164,15
-Cogilith,16,United States,North Carolina,Charlotte,Hansons,187,20
-Twitterlist,39,United States,Arizona,Glendale,Warner,75,18
-Divanoodle,30,United States,New Jersey,Paterson,Logan,158,20
-Nlounge,20,United States,Illinois,Aurora,Jay,24,3
-Buzzdog,15,United States,Pennsylvania,Philadelphia,Trailsway,88,15
-Yamia,47,United States,South Carolina,Aiken,Glendale,66,4
-Twiyo,18,United States,Arkansas,Fort Smith,Thompson,78,14
-Avavee,42,United States,New York,Albany,Dovetail,84,13
-Wikibox,11,United States,Oklahoma,Norman,Coolidge,104,17
-Rhynoodle,40,United States,California,Los Angeles,Forest Run,161,16
-Yabox,16,United States,Iowa,Cedar Rapids,Nevada,129,7
-Trunyx,43,United States,California,San Bernardino,Jenna,181,16
-Quaxo,9,United States,Texas,Austin,North,126,2
-Gigabox,21,United States,Alabama,Birmingham,Prentice,131,10
-Abatz,23,United States,Delaware,Wilmington,Di Loreto,23,13
-Oyonder,47,United States,Texas,San Antonio,Dottie,13,7
-Yombu,43,United States,California,Corona,Merchant,43,7
-InnoZ,20,United States,Florida,Fort Lauderdale,Sauthoff,106,17
-Eadel,33,United States,California,Fresno,5th,193,12
-Rhybox,25,United States,Oklahoma,Oklahoma City,Lighthouse Bay,32,10
+Yodo,13,France,Midi-Pyrénées,Albi,Roth,53,2
+Zoonder,39,Spain,Andalucia,Almeria,Marcy,51,1
+Devify,35,Sweden,Västra Götaland,Stenungsund,Oneill,113,5
+Flashspan,48,France,Île-de-France,Wissous,Westend,59,13
+Kanoodle,17,France,Rhône-Alpes,Lyon,Johnson,77,17
+Tagopia,47,France,Pays de la Loire,Angers,Leroy,67,13
+Gabtune,30,Italy,Campania,Salerno,Hollow Ridge,104,7
+Quimba,10,Portugal,Setúbal,Alvalade,Hintze,101,7
+Buzzshare,41,Portugal,Braga,Loureiro,Burrows,193,13
+Oyoba,45,Sweden,Västra Götaland,Vänersborg,Manley,42,2
+Browsedrive,38,Portugal,Porto,Barreiros,Jackson,107,6
+Fivespan,41,Canada,Québec,La Tuque,Badeau,110,5
+Trilith,2,Canada,Alberta,Blackfalds,International,79,15
+Rhynyx,48,Sweden,Stockholm,Stockholm,Fair Oaks,78,12
+Eire,19,Mexico,Guerrero,El Paraiso,Burrows,59,20
+Avamm,6,Portugal,Coimbra,Almalaguês,1st,19,3
+Dabjam,33,Portugal,Santarém,Fontainhas,Ridge Oak,111,12
+Aimbo,15,Sweden,Skåne,Helsingborg,Ridge Oak,113,0
+Roomm,16,Mexico,Jalisco,Santa Rosa,Huxley,23,11
+Wikizz,39,Netherlands,Provincie Drenthe,Emmen,Stoughton,150,8
+Youopia,38,Portugal,Lisboa,Vale Flores,Browning,110,2
+Zoozzy,6,Sweden,Kalmar,Mönsterås,Prentice,185,5
+BlogXS,14,France,Île-de-France,Paris 07,Linden,173,13
+Voomm,32,France,Alsace,Barr,Carpenter,15,19
+Linkbuzz,31,United Kingdom,Scotland,Newton,Forest Dale,130,20
+Abatz,47,Mexico,Puebla,El Calvario,Farwell,35,18
+Voomm,41,France,Languedoc-Roussillon,Béziers,Sherman,85,16
+Youspan,7,Italy,Piemonte,Torino,Monterey,18,0
+Edgeblab,18,Portugal,Lisboa,Sapataria,Prairieview,72,0
+Feedspan,36,Canada,Ontario,Angus,Cambridge,47,5
+Eadel,37,Malaysia,Pulau Pinang,Butterworth,Texas,148,15
+Fivespan,39,Norway,Oslo,Oslo,Veith,120,5
+Photofeed,13,France,Île-de-France,Paris 15,Shoshone,141,5
+Wikivu,43,France,Nord-Pas-de-Calais,Lille,Coolidge,129,7
+Tagfeed,39,France,Limousin,Limoges,Elmside,18,7
+Jetwire,49,Malaysia,Sabah,Kota Kinabalu,Twin Pines,138,11
+Leenti,30,Norway,Oslo,Oslo,Forest,86,17
+Abatz,32,Canada,New Brunswick,Harrison Brook,Buena Vista,136,8
+Eayo,44,Portugal,Porto,Mata,Graceland,153,18
+Tagcat,17,Portugal,Viana do Castelo,Igreja,Tennyson,199,16
+Skyba,3,United Kingdom,England,Merton,Golf,76,19
+Innotype,43,Sweden,Västernorrland,Ånge,Iowa,184,16
+Oyondu,8,France,Alsace,Strasbourg,Sheridan,53,3
+Bubbletube,43,Portugal,Aveiro,Torreira,Buena Vista,55,11
+Oozz,23,Mexico,Veracruz Llave,18 de Marzo,Lakewood Gardens,154,7
+Abata,6,Hungary,Budapest,Budapest,Mcbride,97,8
+Twinder,25,Portugal,Lisboa,Estribeiro,Westport,90,11
+Gabspot,14,France,Bourgogne,Dijon,Mallard,119,12
+Fatz,13,Mexico,Guerrero,El Limon,Bultman,198,15
+Trudeo,44,Malaysia,Sabah,Kota Kinabalu,Holmberg,33,4
+Dynabox,23,Germany,Sachsen-Anhalt,Magdeburg,Ronald Regan,83,7
+Jayo,42,Sweden,Värmland,Kil,Messerschmidt,166,7
+Feedbug,6,Portugal,Évora,Reguengos de Monsaraz,Lunder,164,13
+DabZ,46,Spain,Asturias,Gijon,3rd,90,2
+Blognation,24,Germany,Nordrhein-Westfalen,Mönchengladbach,Duke,136,0
+Wikibox,9,Mexico,Coahuila De Zaragoza,Roma,Gerald,16,9
+Jayo,19,Portugal,Viseu,Castanheiro do Sul,Fairview,160,14
+Zoozzy,35,Spain,Madrid,Madrid,Duke,183,9
+Devcast,45,Portugal,Leiria,Gândara de Aquém,Mallory,118,5
+Tazz,23,Canada,Manitoba,Niverville,Pennsylvania,16,14
+Jaxworks,12,Sweden,Stockholm,Stockholm,Mayfield,54,8
+Omba,15,Sweden,Västernorrland,Kramfors,Kenwood,24,9
+Zoomcast,8,Sweden,Västra Götaland,Nossebro,Old Gate,15,18
+Camido,38,Portugal,Coimbra,Ribeira,Ridge Oak,70,12
+Einti,38,France,Franche-Comté,Besançon,Donald,157,2
+Skajo,29,Sweden,Halland,Kungsbacka,Cody,192,13
+Reallinks,22,Sweden,Norrbotten,Piteå,Waywood,184,4
+Quire,38,France,Bourgogne,Auxerre,Oneill,100,2
+Mydo,21,United Kingdom,England,Norton,Victoria,90,19
+Zoomdog,19,Portugal,Ilha de São Miguel,Achada,Judy,54,18
+Feedspan,42,Italy,Veneto,Verona,Dawn,158,4
+Browseblab,16,Portugal,Aveiro,Moutas,Westerfield,75,14
+Pixonyx,2,Canada,Québec,Montréal-Ouest,Fairview,130,2
+Jayo,39,France,Nord-Pas-de-Calais,Berck,Talisman,18,6
+Zoomlounge,43,Portugal,Ilha de São Miguel,Achada,South,36,3
+Skajo,15,Sweden,Stockholm,Stockholm,Blackbird,169,18
+Tazz,20,Portugal,Viseu,Casal,Moose,19,7
+Plajo,10,France,Île-de-France,Cergy-Pontoise,Debra,188,15
+Yotz,27,France,Île-de-France,Palaiseau,Grim,163,5
+Photofeed,47,Germany,Nordrhein-Westfalen,Köln,Division,26,0
+Jabberstorm,43,Portugal,Ilha de São Miguel,Ajuda,Michigan,57,18
+Quaxo,46,France,Île-de-France,Paris 08,Morning,77,20
+Rhybox,26,France,Limousin,Guéret,Oxford,37,12
+Brainverse,40,Malaysia,Negeri Sembilan,Seremban,Waubesa,5,8
+Mynte,36,Portugal,Setúbal,Monte Novo,Fulton,109,10
+Bubbletube,3,France,Île-de-France,Cergy-Pontoise,Elka,157,7
+Vitz,11,Portugal,Aveiro,Gafanha da Encarnação,6th,167,4
+Avavee,42,Canada,Ontario,London,Huxley,96,19
+Kwinu,2,Sweden,Skåne,Löddeköpinge,Sherman,78,12
+Twitterbeat,31,Denmark,Region Hovedstaden,København,Park Meadow,110,16
+Trupe,18,Spain,Galicia,Pontevedra,Meadow Valley,159,1
+Shuffledrive,9,France,Île-de-France,Saint-Ouen,Bartelt,174,13
+Wikibox,47,France,Île-de-France,Arcueil,Lakewood Gardens,39,11
+Skynoodle,13,Germany,Niedersachsen,Hannover,Fairview,111,9
+Quinu,15,Portugal,Porto,Besteiros,New Castle,14,17
+Shuffletag,29,Portugal,Leiria,Casal Velho,Dexter,183,8
+Voonder,30,Portugal,Coimbra,Tentúgal,Dorton,197,20
+Linkbridge,46,Italy,Lazio,Roma,Bultman,54,17
+Skyvu,48,Spain,Castilla - La Mancha,Albacete,Harper,186,11
+Fanoodle,41,Sweden,Västra Götaland,Mölnlycke,Center,76,9
+Wikizz,24,France,Pays de la Loire,Nantes,Northfield,170,19
+Jaxnation,47,France,Île-de-France,Paris La Défense,Dunning,181,15
+Bluezoom,30,Spain,Baleares,Palma De Mallorca,Porter,84,1
+Photobug,22,Canada,British Columbia,Kelowna,Bobwhite,33,15
+Agimba,16,Sweden,Jönköping,Habo,Veith,79,4
+Voomm,47,Portugal,Vila Real,Santa Valha,Katie,119,18
+Realfire,5,France,Poitou-Charentes,La Rochelle,Carberry,30,18
+Topicstorm,44,France,Franche-Comté,Besançon,Schlimgen,148,0
+Camido,43,United Kingdom,England,Liverpool,Union,77,0
+Tazzy,48,France,Île-de-France,Paris La Défense,Reindahl,79,1
+Meedoo,44,France,Languedoc-Roussillon,Béziers,Forster,56,16
+Voomm,7,Malaysia,Selangor,Petaling Jaya,Portage,138,14
+Dynabox,41,France,Pays de la Loire,Nantes,Dryden,55,9
+Edgeify,37,Sweden,Örebro,Örebro,Manitowish,122,18
+Mydeo,36,Sweden,Stockholm,Rönninge,East,77,9
+Skippad,4,Sweden,Uppsala,Uppsala,Thackeray,172,8
+Leexo,2,Canada,Alberta,Killam,Donald,130,6
+Yata,39,Sweden,Gävleborg,Valbo,Linden,135,4
+Eayo,21,Portugal,Leiria,Boco,Sheridan,110,9
+Talane,49,Portugal,Vila Real,Mondim de Basto,Mitchell,177,15
+Yotz,44,Portugal,Viana do Castelo,Cachadinha,Anhalt,113,17
+Quamba,31,Italy,Friuli-Venezia Giulia,Trieste,Clemons,89,7
+Meevee,28,Spain,Navarra,Pamplona/Iruña,Harper,118,15
+Jetwire,15,France,Rhône-Alpes,Lyon,Kensington,130,15
+Skajo,15,Portugal,Santarém,Chã,Independence,10,10
+Skyba,40,France,Île-de-France,Paris 13,New Castle,118,17
+Skiba,12,Austria,Steiermark,Kumberg,Sutteridge,167,13
+Jaloo,16,Norway,Oslo,Oslo,Quincy,158,1
+Demimbu,13,France,Rhône-Alpes,Tournon-sur-Rhône,Schlimgen,122,17
+Leexo,4,France,Rhône-Alpes,Oyonnax,Mendota,109,20
+Skyvu,45,Mexico,Chihuahua,San Jose,Fallview,86,13
+Edgepulse,23,Mexico,Guerrero,El Limon,Monument,64,1
+Wordify,46,France,Île-de-France,Palaiseau,Darwin,26,20
+Meeveo,18,Sweden,Skåne,Vellinge,Lakewood,147,0
+Photospace,32,Portugal,Braga,Sobreiro,Aberg,159,19
+Meejo,40,France,Rhône-Alpes,Bourgoin-Jallieu,Pearson,18,17
+Edgeify,9,Norway,More og Romdal,Ålesund,Dexter,130,2
+Quatz,49,Canada,Ontario,Waterloo,Orin,164,20
+Mymm,10,Portugal,Leiria,Óbidos,Algoma,194,12
+Twitterworks,36,Sweden,Södermanland,Katrineholm,Pankratz,186,15
+Topdrive,11,Canada,Québec,Bromont,Lien,22,1
+Photospace,6,Portugal,Viseu,Nagosela,Maryland,152,19
+Jaxnation,38,Canada,Alberta,Morinville,Holmberg,73,9
+Layo,38,Mexico,Veracruz Llave,San Jose,Lillian,72,6
+Tagchat,36,Sweden,Västra Götaland,Alingsås,Banding,47,11
+Voolith,19,Sweden,Stockholm,Bandhagen,Kinsman,20,6
+Jayo,35,Portugal,Ilha de São Miguel,Porto Formoso,Green,11,8
+Gabcube,27,Portugal,Braga,Telhado,Fuller,47,7
+Buzzbean,23,Sweden,Blekinge,Sölvesborg,Nobel,149,3
+Tekfly,12,Sweden,Norrbotten,Luleå,Dwight,126,11
