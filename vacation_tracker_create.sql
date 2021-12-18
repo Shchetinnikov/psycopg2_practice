@@ -137,8 +137,7 @@ create table employee_department (
 create table phone_numbers (
 	phone_num_id SERIAL,
 	employee_id  INT         not null,
-	phone_num    VARCHAR(12) not null,
-	unique (employee_id, phone_num),
+	phone_num    VARCHAR(12) not null unique,
 	primary key (phone_num_id),
 	foreign key (employee_id) references employees (employee_id)	
 );
@@ -147,8 +146,7 @@ create table account_data (
 	account_id  SERIAL,
 	login       VARCHAR(50) not null,
 	"password"  VARCHAR(50) not null,
-	employee_id INT         not null,
-	unique (login, "password", employee_id),
+	employee_id INT         not null unique,
 	primary key (account_id),
 	foreign key (employee_id) references employees (employee_id) 
 );
